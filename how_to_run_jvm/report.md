@@ -1,3 +1,11 @@
+# 情報
+- 【東京】【初学者向け】JJUG ナイトセミナ 「Javaのプログラムはどうやって動いているの?」
+- 日時: 2015/04/24 19:00-21:00
+- 会場: 日本オラクル株式会社
+- 講師: 櫻庭 祐一
+  - Web: http://www.javainthebox.com/
+  - 連載中: [java技術最前線](http://itpro.nikkeibp.co.jp/article/COLUMN/20060915/248243/)
+
 # 概要
 ## 前半（JVM編）
 - JVMは実行時コンパイル（Just-in-Time Compile）
@@ -22,14 +30,6 @@
 
 - 原理を知って, チューニングに活かす
   - Old世代のGCをなるべく減らす
-
-# 情報
-- 【東京】【初学者向け】JJUG ナイトセミナ 「Javaのプログラムはどうやって動いているの?」
-- 日時: 2015/04/24 19:00-21:00
-- 会場: 日本オラクル株式会社
-- 講師: 櫻庭 祐一
-  - Web: http://www.javainthebox.com/
-  - 連載中: [java技術最前線](http://itpro.nikkeibp.co.jp/article/COLUMN/20060915/248243/)
 
 # 書籍
 - [Java仮想マシン仕様 (The Java series)](http://www.amazon.co.jp/dp/489471356X)
